@@ -1,7 +1,7 @@
 ### Hey everyone, I'm Ahmed, AKA EagleEye1107 👋
 
 - 🔭 I’m currently working on **Machine Learning & Data mining projects**
-- 🤔 I'm currently interested in **Computational Intelligence (ANNs, Fuzzy Logic, Genetic Algorithms & Swarm Intelligence)**
+- 🤔 I'm currently interested in **Computational Intelligence (ANNs, Fuzzy Logic, Genetic Programming & Swarm Intelligence)**
 - 🌱 I’m currently learning **different types of neural networks (CNN, RNN, GNN...etc.)**
 - 💬 Ask me about anything related to AI, IoT & Cybersecurity 😄
 - 📫 How to reach me: [email address](a.baahmed@esi-sba.dz)
