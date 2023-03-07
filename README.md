@@ -1,6 +1,6 @@
 ### Hey everyone, I'm Ahmed, AKA EagleEye1107 👋
 
-- 🔭 I worked on a lot of **Machine Learning & Data mining projects**, and I’m currently working on **Deep Learning Based projects**
+- 🔭 I'm currently working on a lot of **Machine Learning & Data mining projects**, especially **Deep Learning-Based projects**
 - 🤔 Currently, I'm interested in **Computational Intelligence (ANNs, Fuzzy Logic, Genetic Programming & Swarm Intelligence)**
 - 🌱 I’m Learning **different types of neural networks (CNN, RNN, GNN...etc.)**
 - 💬 Ask me about anything related to AI, IoT & Cybersecurity 😄
