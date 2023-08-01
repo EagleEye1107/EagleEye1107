@@ -1,5 +1,6 @@
 ### Hey everyone, I'm Ahmed, AKA EagleEye1107 👋
 
+- 🎓 I'm a State Engineer in Computer Systems Engineering with a Master's Degree graduated from The Higher School of Computer Science 08 May 1945 - Sidi Bel Abbes - Algeria
 - 🔭 I'm currently working on a lot of **Machine Learning & Data mining projects**, especially **Deep Learning-Based projects**
 - 🤔 Currently, I'm interested in **Computational Intelligence (ANNs, Fuzzy Logic, Genetic Programming & Swarm Intelligence)**
 - 🌱 I’m Learning **different types of neural networks (CNN, RNN, GNN...etc.)**
