@@ -1,9 +1,8 @@
 ### Hey everyone, I'm Ahmed, AKA EagleEye1107 👋
 
-- 🎓 I'm a State Engineer in Computer Systems Engineering with a Master's Degree graduated from The Higher School of Computer Science 08 May 1945 - Sidi Bel Abbes - Algeria
-- 🔭 I'm currently working on a lot of **Machine Learning & Data mining projects**, especially **Deep Learning-Based projects**
-- 🤔 Currently, I'm interested in **Computational Intelligence (ANNs, Fuzzy Logic, Genetic Programming & Swarm Intelligence)**
-- 🌱 I’m Learning **different types of neural networks (CNN, RNN, GNN...etc.)**
+- 🎓 I'm a State Engineer in Computer Systems Engineering & a Doctoral Researcher (Ph.D) at ENSAM working at CESI LINEACT - France
+- 🔭 I'm currently working on **Computational Efficiency of Federated Learning techniques on Edge-Cloud infrastructures**
+- 🤔 Currently, I'm interested in **Energy efficiency, Buildings and cities of the future**
 - 💬 Ask me about anything related to AI, IoT & Cybersecurity 😄
 - 📫 How to reach me: [email address](a.baahmed@esi-sba.dz)
 - ⚡ Fun fact: I'm an astronomy & astronautics lover
